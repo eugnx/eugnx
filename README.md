@@ -158,11 +158,11 @@ Database design projects including:
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/eugenemahaso
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: https://eugenemahaso.netlify.app/
 
-📧 Email: YOUR_EMAIL
+📧 Email: eugenemahaso@gmail.com
 
 ---
 
