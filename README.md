@@ -16,7 +16,7 @@ Building scalable applications, solving real-world problems, and continuously le
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Nottingham Trent International College** with a passion for building reliable, efficient, and user-focused software.
+I'm a Computer Science student at **Nottingham Trent University** with a passion for building reliable, efficient, and user-focused software.
 
 I enjoy backend development, designing APIs, working with databases, and creating full-stack web applications. My goal is to become a software engineer who develops scalable systems while continually learning cloud technologies, DevOps, and AI.
 
