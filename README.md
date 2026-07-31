@@ -148,7 +148,7 @@ Database design projects including:
 
 💼 LinkedIn: www.linkedin.com/in/eugenemahaso
 
-🌐 Portfolio: https://eugenemahaso.netlify.app/
+🌐 Portfolio: https://eugenemahaso.vercel.app/
 
 📧 Email: eugenemahaso@gmail.com
 
